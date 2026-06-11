@@ -8,4 +8,3 @@
 > 
 > Once you make it to The Citadel, you'll find our fellow member of the [[Organizations/Undergrowth\|Undergrowth]] in the [[Locations/Court of Crowns/Prone Pixie\|Prone Pixie]] in the western part of the city's Outer Ring. We don't share names in The Book, so you'll have to find her yourself. Keep an eye out for a *Chartreuse Chanteuse*."
 
-![Neverwinter Map.jpg](/img/user/z_Data/Resources/Maps/Neverwinter%20Map.jpg)
