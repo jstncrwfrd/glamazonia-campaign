@@ -1,0 +1,33 @@
+{
+  "/": [
+    "Home",
+    "Characters",
+    "Journal",
+    "Locations"
+  ],
+  "/Characters": [
+    "Players",
+    "Undergrowth"
+  ],
+  "/Characters/Players": [
+    "Duke",
+    "Garland Sagittarius",
+    "Jet H. Blue",
+    "One-Eyed Hilda Thee Bitch"
+  ],
+  "/Characters/Undergrowth": [
+    "Mordecai"
+  ],
+  "/Journal": [
+    "Tome of the Undergrowth"
+  ],
+  "/Journal/Tome of the Undergrowth": [
+    "Mordecai"
+  ],
+  "/Locations": [
+    "Court of Crowns"
+  ],
+  "/Locations/Court of Crowns": [
+    "The Citadel"
+  ]
+}
