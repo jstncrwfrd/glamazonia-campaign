@@ -3,3 +3,4 @@
 ---
 
 # Journal 
+[[z_Garden/Characters/Players/One-Eyed Hilda Thee Bitch\|One-Eyed Hilda Thee Bitch]]
