@@ -3,7 +3,6 @@
 ---
 
 # Journal 
-Coming soon. 
 
 
 
@@ -17,4 +16,5 @@ views:
     sort: []
 
 ```
+
 
