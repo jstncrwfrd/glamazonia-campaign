@@ -4,3 +4,19 @@
 
 # Journal 
 Coming soon. 
+
+
+
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("session-chronicle")
+    sort:
+      - property: file.name
+        direction: ASC
+
+```
+
