@@ -13,6 +13,8 @@ views:
     filters:
       and:
         - file.hasTag("session-chronicle")
+    order:
+      - file.name
     sort: []
 
 ```
