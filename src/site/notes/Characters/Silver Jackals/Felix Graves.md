@@ -3,7 +3,9 @@
 ---
 
 Leader of the [[Lore/Organizations/Silver Jackals\|Silver Jackals]] and owner of the [[Lore/Locations/Court of Crowns/Prone Pixie\|Prone Pixie]]. 
-> [!info]+ Leader of Silver Jackals Adult Eladrin Male [Bold, Charismatic, Sly]
+> [!info]+ Leader of Silver Jackals 
+> Adult Eladrin Male 
+> [Bold, Charismatic, Sly]
 >
 > ## 
 > ![[npc_unknown.png \| 300]]
