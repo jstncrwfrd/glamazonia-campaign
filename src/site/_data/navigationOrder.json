@@ -1,13 +1,15 @@
 {
   "/": [
-    "Home",
+    "Adventures in Glamazonia",
     "Characters",
     "Journal",
-    "Locations"
+    "Lore"
   ],
   "/Characters": [
     "Players",
-    "Undergrowth"
+    "Undergrowth",
+    "The Citadel",
+    "Characters"
   ],
   "/Characters/Players": [
     "Duke",
@@ -18,16 +20,34 @@
   "/Characters/Undergrowth": [
     "Mordecai"
   ],
+  "/Characters/The Citadel": [
+    "Farmer Gann"
+  ],
   "/Journal": [
-    "Tome of the Undergrowth"
+    "Tome of the Undergrowth",
+    "Sessions"
   ],
   "/Journal/Tome of the Undergrowth": [
-    "Mordecai"
+    "Mordecai - Stage Town"
   ],
-  "/Locations": [
-    "Court of Crowns"
+  "/Journal/Sessions": [
+    "01 - 7 Early Sessions",
+    "08"
   ],
-  "/Locations/Court of Crowns": [
+  "/Lore": [
+    "Locations",
+    "Organizations"
+  ],
+  "/Lore/Locations": [
+    "Court of Crowns",
+    "Glamazonia"
+  ],
+  "/Lore/Locations/Court of Crowns": [
+    "Prone Pixie",
     "The Citadel"
+  ],
+  "/Lore/Organizations": [
+    "Court of Crowns",
+    "Undergrowth"
   ]
 }
