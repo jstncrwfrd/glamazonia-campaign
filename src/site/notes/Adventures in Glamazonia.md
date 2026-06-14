@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/adventures-in-glamazonia/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-# Journey So Far
+### Journey So Far
 
 | Session                                                              | Saga        |
 | -------------------------------------------------------------------- | ----------- |
