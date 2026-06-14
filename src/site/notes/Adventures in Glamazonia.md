@@ -12,5 +12,3 @@
 { .block-language-dataview}
 
 
-[[_Albert\|_Albert]]
-
