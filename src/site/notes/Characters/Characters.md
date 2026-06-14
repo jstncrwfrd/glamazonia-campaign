@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/characters/","dgShowFileTree":"false","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/characters/","hide":true,"dg-note-properties":{}}
 ---
 
 
