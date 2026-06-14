@@ -8,7 +8,7 @@
 > [Stubborn. Practical, Drop-dead-gorgeous]
 >
 > ## 
-> ![[npc_unknown.png \| 300]]
+> ![Hilda.jpeg\| 300](/img/user/z_Data/Images/Character%20Portraits/Hilda.jpeg)
 > 
 
 | Session                      | Reference                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

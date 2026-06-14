@@ -8,7 +8,7 @@
 > [Smug, Physical, Shrewd]
 >
 > ## 
-> ![[npc_unknown.png \| 300]]
+> ![Garland.jpeg\| 300](/img/user/z_Data/Images/Character%20Portraits/Garland.jpeg)
 > 
 
 | Session                      | Reference                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

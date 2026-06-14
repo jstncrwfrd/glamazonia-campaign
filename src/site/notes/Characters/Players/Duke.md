@@ -8,7 +8,7 @@
 > [Loud, Feisty, Self-centered]
 >
 > ## 
-> ![[npc_unknown.png \| 300]]
+> ![Duke.jpeg\| 300](/img/user/z_Data/Images/Character%20Portraits/Duke.jpeg)
 > 
 
 | Session | Reference |
