@@ -3,6 +3,7 @@
 ---
 
 # Journey So Far
+###[[Characters/Characters\|Characters]]
 | Session                                                            | Saga |
 | ------------------------------------------------------------------ | ---- |
 | [[Journal/Sessions/9\|9]]                                       | \-   |
