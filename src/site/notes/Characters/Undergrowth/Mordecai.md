@@ -4,9 +4,9 @@
 
 
 
-> [!info]+
-> Member of the [[Lore/Organizations/Undergrowth\|Undergrowth]].
-> 
+> [!info]+ Undergrowth Member 
+> Adult Harengon Male 
+> [Helpful, Hopeful, Determined]
 > ![Mordecai.png](/img/user/z_Data/Images/Character%20Portraits/Mordecai.png)
 
 | Note                                                                 | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
