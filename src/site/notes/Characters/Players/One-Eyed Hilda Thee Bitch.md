@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/characters/players/one-eyed-hilda-thee-bitch/","dg-note-properties":{"role":"Barbarian (Path of the Berserker)","age":"Adult","race":"Tiefling","gender":"Female","descriptors":"[Stubborn. Practical, Drop-dead-gorgeous]"}}
+{"dg-publish":true,"permalink":"/characters/players/one-eyed-hilda-thee-bitch/","dg-note-properties":{"role":"Barbarian (Path of the Berserker)","age":"Adult","race":"Tiefling","gender":"Female","descriptors":["Stubborn","Practical","Drop-dead-gorgeous"]}}
 ---
 
 
 > [!info]+ Barbarian (Path of the Berserker) 
 > Adult Tiefling Female 
-> [Stubborn. Practical, Drop-dead-gorgeous]
+> Stubborn,Practical,Drop-dead-gorgeous
 >
 > ## 
 > ![Hilda.jpeg\| 300](/img/user/z_Data/Images/Character%20Portraits/Hilda.jpeg)

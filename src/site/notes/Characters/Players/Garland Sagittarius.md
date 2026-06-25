@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/characters/players/garland-sagittarius/","dg-note-properties":{"role":"Paladin (Oath of Devotion)","age":"Adult","race":"Aasimar","gender":"Male","descriptors":"[Smug, Physical, Shrewd]"}}
+{"dg-publish":true,"permalink":"/characters/players/garland-sagittarius/","dg-note-properties":{"role":"Paladin (Oath of Devotion)","age":"Adult","race":"Aasimar","gender":"Male","descriptors":["Smug","Physical","Shrewd"]}}
 ---
 
 
 > [!info]+ Paladin (Oath of Devotion) 
 > Adult Aasimar Male 
-> [Smug, Physical, Shrewd]
+> Smug,Physical,Shrewd
 >
 > ## 
 > ![Garland.jpeg\| 300](/img/user/z_Data/Images/Character%20Portraits/Garland.jpeg)

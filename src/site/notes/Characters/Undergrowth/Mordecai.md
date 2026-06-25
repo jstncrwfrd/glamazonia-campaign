@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/characters/undergrowth/mordecai/","tags":["undergrowth"],"dg-note-properties":{"tags":["undergrowth"],"role":"Undergrowth Member","age":"Adult","race":"Harengon","gender":"Male","descriptors":"[Helpful, Hopeful, Determined]"}}
+{"dg-publish":true,"permalink":"/characters/undergrowth/mordecai/","tags":["undergrowth"],"dg-note-properties":{"tags":["undergrowth"],"role":"Undergrowth Member","age":"Adult","race":"Harengon","gender":"Male","descriptors":["Helpful","Hopeful","Determined"]}}
 ---
 
 
 
 > [!info]+ Undergrowth Member 
 > Adult Harengon Male 
-> [Helpful, Hopeful, Determined]
+> Helpful,Hopeful,Determined
 > ![Mordecai.png](/img/user/z_Data/Images/Character%20Portraits/Mordecai.png)
 
 | Note                                                                 | Interactions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
