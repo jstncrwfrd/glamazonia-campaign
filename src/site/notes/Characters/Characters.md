@@ -7,6 +7,7 @@
 | ------------------------------------------------------------------------------ |
 | [[Characters/The Gilded Guild/Chad Rebellion\|Chad Rebellion]]              |
 | [[Characters/Characters\|Characters]]                                       |
+| [[Characters/The Citadel/Dolga\|Dolga]]                                     |
 | [[Characters/Players/Duke\|Duke]]                                           |
 | [[Characters/The Citadel/Farmer Gann\|Farmer Gann]]                         |
 | [[Characters/Silver Jackals/Felix Graves\|Felix Graves]]                    |
@@ -15,6 +16,7 @@
 | [[Characters/Unafiliated/Giladion\|Giladion]]                               |
 | [[Characters/The Gilded Guild/Gob\|Gob]]                                    |
 | [[Characters/Unafiliated/Gondin Eversharp\|Gondin Eversharp]]               |
+| [[Characters/The Citadel/Groosk\|Groosk]]                                   |
 | [[Characters/Unafiliated/Hexenti\|Hexenti]]                                 |
 | [[Characters/The Monarchy/Holey\|Holey]]                                    |
 | [[Characters/Players/Jet H. Blue\|Jet H. Blue]]                             |

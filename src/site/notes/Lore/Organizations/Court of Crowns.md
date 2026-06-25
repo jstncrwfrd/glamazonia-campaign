@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/organizations/court-of-crowns/","dg-note-properties":{"aliases":["Crowns"]}}
 ---
 
-
+One of the Five Courts of Power in Glamazonia. The Court is ruled by [[Characters/Court of Crowns/Orissa\|Orissa]] of [[Lore/Locations/Court of Crowns/The Citadel\|The Citadel]], the matriarch of an Eladrin military dynasty. 
 
 | Session                                                              | Reference                                                                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
