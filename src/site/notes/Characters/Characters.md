@@ -5,6 +5,7 @@
 
 | Character                                                                      |
 | ------------------------------------------------------------------------------ |
+| [[Characters/Unafiliated/Albert\|Albert]]                                   |
 | [[Characters/The Gilded Guild/Chad Rebellion\|Chad Rebellion]]              |
 | [[Characters/Characters\|Characters]]                                       |
 | [[Characters/The Citadel/Dolga\|Dolga]]                                     |
