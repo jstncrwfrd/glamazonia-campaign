@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/characters/players/albert/","dg-note-properties":{"role":"Pet/Familiar to Hilda","age":"Fledgling","race":"Hawk","gender":"Male","descriptors":"[One, Two, Three]"}}
+{"dg-publish":true,"permalink":"/characters/players/albert/","dg-note-properties":{"role":"Pet/Familiar to Hilda","age":"Fledgling","race":"Mini Thunderbird","gender":"Male","descriptors":"[One, Two, Three]"}}
 ---
 
 
 
 > [!info]+ Pet/Familiar to Hilda 
-> Fledgling Hawk Male 
+> Fledgling Mini Thunderbird Male 
 > [One, Two, Three]
 >
 > ## 
