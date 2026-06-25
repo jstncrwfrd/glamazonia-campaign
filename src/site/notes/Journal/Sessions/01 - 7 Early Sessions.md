@@ -9,7 +9,7 @@
 
 (x:: Lord Neverember calls for a tournament to test the mettle of would-be Champions of Lathander. He sets a series of challenges that will prove who is worth of the title, and to help guide who will become responsible for unraveling the mystery.)
 
-(x:: The first challenge is a labyrinth, and in the course of solving it, the party is transported to the fey realm of [[Lore/Locations/Glamazonia\|Glamazonia]].) 
+(x:: The first challenge is a labyrinth, and in the course of solving it, the party is transported to the fey realm of [[Lore/Locations/Glamazonia/Glamazonia\|Glamazonia]].) 
 
 (x:: They learn that [[Characters/The Monarchy/Queen Rupel\|Queen Rupel]] has been crystalized and is in need of saving. Apparently, this queen is an avatar of Lathander, so the party is convinced that they were transported to this fey world to solve both the worlds' problems.  The party sets out to [[Lore/Locations/Glamazonia/Stage Town\|Stage Town]] to start their journey, where they meet Mordecai.) 
 
@@ -17,7 +17,7 @@
 
 (x:: The Undergrowth is a secret organization that is seeking the overthrow of [[Characters/The Monarchy/Queen Rupel\|Queen Rupel]]. They want to do so peacefully, through a popular uprising. To that end, they share information and act as a spy organization working to foment a peaceful overthrow of the monarchy. According to Mordecai, they are *not* responsible for the Queen's crystallization, and they're worried that the lands could become even more unstable if one of the other powers in the realm seek to take control. The Undergrowth needs the party, as powerful adventurers, to journey through the lands and investigate, learning what they can to try to figure out who is responsible for the Queen's crystallization and who has designs on the throne.) 
 
-(x:: Their first destination is [[Lore/Locations/Court of Crowns/The Citadel\|The Citadel]] and the [[Lore/Organizations/Court of Crowns\|Court of Crowns]]. There have long been rumors that the leader of the Crowns, [[Characters/Court of Crowns/Orissa\|Orissa]] of the Citadel, has sought to become queen of [[Lore/Locations/Glamazonia\|Glamazonia]] herself. To get there, the party has to make their way through the [[Lore/Locations/Glamazonia/Hall of Valor\|Hall of Valor]].)
+(x:: Their first destination is [[Lore/Locations/Court of Crowns/The Citadel\|The Citadel]] and the [[Lore/Organizations/Court of Crowns\|Court of Crowns]]. There have long been rumors that the leader of the Crowns, [[Characters/Court of Crowns/Orissa\|Orissa]] of the Citadel, has sought to become queen of [[Lore/Locations/Glamazonia/Glamazonia\|Glamazonia]] herself. To get there, the party has to make their way through the [[Lore/Locations/Glamazonia/Hall of Valor\|Hall of Valor]].)
 
 
 
