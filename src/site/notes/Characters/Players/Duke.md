@@ -8,7 +8,7 @@
 > Loud,Feisty,Self-centered
 >
 > ## 
-> ![Duke.jpeg\| 300](/img/user/z_Data/Images/Character%20Portraits/Duke.jpeg)
+> ![Player_Duke.jpeg\| 300](/img/user/z_Data/Character%20Portraits/Player_Duke.jpeg)
 > 
 
 | Session                        | Reference                                                                                                                                                                                                                                                                                                                                                                   |

@@ -8,7 +8,7 @@
 > Stubborn,Practical,Drop-dead-gorgeous
 >
 > ## 
-> ![Hilda.jpeg\| 300](/img/user/z_Data/Images/Character%20Portraits/Hilda.jpeg)
+> ![Player_Hilda.jpeg\| 300](/img/user/z_Data/Character%20Portraits/Player_Hilda.jpeg)
 > 
 
 | Session                        | Reference                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |

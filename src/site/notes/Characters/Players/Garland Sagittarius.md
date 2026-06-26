@@ -8,7 +8,7 @@
 > Smug,Physical,Shrewd
 >
 > ## 
-> ![Garland.jpeg\| 300](/img/user/z_Data/Images/Character%20Portraits/Garland.jpeg)
+> ![Player_Garland.jpeg\| 300](/img/user/z_Data/Character%20Portraits/Player_Garland.jpeg)
 > 
 
 | Session                        | Reference                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

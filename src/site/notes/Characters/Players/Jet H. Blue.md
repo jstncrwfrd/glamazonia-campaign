@@ -8,7 +8,7 @@
 > `=this.descriptors`
 >
 > ## 
-> ![Jet Blue.jpeg\| 300](/img/user/z_Data/Images/Character%20Portraits/Jet%20Blue.jpeg)
+> ![Player_Jet.jpeg\| 300](/img/user/z_Data/Character%20Portraits/Player_Jet.jpeg)
 > 
 
 | Session                        | Reference                                                                                                                                                                                                                                                                                                                                                                                                                                     |
