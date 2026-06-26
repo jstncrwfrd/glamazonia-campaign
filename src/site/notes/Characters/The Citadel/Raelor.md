@@ -1,0 +1,22 @@
+---
+{"dg-publish":true,"permalink":"/characters/the-citadel/raelor/","dg-note-properties":{"role":"Missing Friend of Melindir","age":"Adult","race":"Eladrin","gender":"Male","descriptors":null}}
+---
+
+He's described by [[Characters/Court of Crowns/Melindir\|Melindir]] as "beautiful." He has a pale orange skin and chestnut hair with light green eyes. Tall, slight figure. Rough hands. 
+
+> [!info]+ Missing Friend of Melindir 
+> Adult Eladrin Male 
+> `=this.descriptors`
+>
+> ## 
+> ![[npc_unknown.png \| 300]]
+> 
+
+| Session                        | Reference                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/09\|09]] | When [[Characters/Undergrowth/Miskinel Dewdrop\|Miski]] heads backstage, they see the man they saved siting with his hood up! The man they believe to be [[Characters/The Citadel/Frederick\|Frederick]]. They confront him, and he denies it. He introduces himself of [[Characters/Court of Crowns/Melindir\|Melindir]], Prince of the [[Lore/Organizations/Court of Crowns\|Court of Crowns]] and son of Lady [[Characters/Court of Crowns/Orissa\|Orissa]]. He says he was looking for [[Characters/The Citadel/Raelor\|Raelor]], as he likes to come to the Pixie for the shows. He tells the party that, if they find Raelor, to let him know that Mel is looking for him.                                                                                                                                                                                      |
+| [[Journal/Sessions/08\|08]] | Along the pathway to the Citadel, the party is attacked by a band of Harpies. All but Garland succumb to the Harpies' song, but they ultimately dispatch them and take a well-deserved rest in the shade of a hill. The next day, they find themselves at the farm of a local fairy. [[Characters/The Citadel/Farmer Gann\|Farmer Gann]] is working in the field, and explains tot he party that the Citadel has increased the quota of wheat and he's having to work day and night to meet the requirements. Normally, he'd rely on his son, [[Characters/The Citadel/Raelor\|Raelor]], but he's been called up by the army. He doesn't know what or why, but he thinks something is going on and that war could be on the horizon. |
+| [[Journal/Sessions/08\|08]] | He explains he was going to visit a friend, the farmer's son [[Characters/The Citadel/Raelor\|Raelor]]. The party tells him that Raelor isn't home, that his father said he was called back into the city to serve in some sort of army mission or exercise. The man is confused and bids the party farewell before sprinting away and taking flight back towards The Citadel.                                                                                                                                                                                                                                                                                                                   |
+
+{ .block-language-dataview}
+Son of [[Characters/The Citadel/Farmer Gann\|Farmer Gann]], lover to [[Characters/Court of Crowns/Melindir\|Melindir]], heir to the [[Lore/Organizations/Court of Crowns\|Court of Crowns]]. He goes missing at the start of the Citadel Quest line. Goes by "Rae."
