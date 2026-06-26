@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/tome-of-the-undegrowth/","dg-note-properties":{}}
 ---
 
+---
 ### Mordecai
 
 > [!quote] Road to The Citadel
@@ -11,3 +12,7 @@
 { #972684}
 
 
+---
+### Miski
+> [!quote] The Missing Men
+> "Welcome to [[Lore/Locations/Court of Crowns/The Citadel\|The Citadel]]. Try not to get yourselves killed. Go to [[Characters/Silver Jackals/Felix Graves\|Felix Graves]], tell him I sent you. He'll hear you out, but be quick about it. He doesn't like to waste time."
