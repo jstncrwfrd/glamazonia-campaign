@@ -8,7 +8,7 @@
 > Proud,Protective,Joyful
 >
 > ## 
-> ![[NPC_Melindir.png \| 300]]
+> ![NPC_Melindir.png](/img/user/z_Data/Character%20Portraits/NPC_Melindir.png)
 > 
 
 | Session                        | Reference                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
