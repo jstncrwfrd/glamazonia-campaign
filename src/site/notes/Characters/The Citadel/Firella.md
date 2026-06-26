@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/characters/the-citadel/firga/","dg-note-properties":{"role":"Frederick's Mother, Inn Keeper of the Sleeping Siren","age":"Adult","race":"Eladrin","gender":"Woman","descriptors":["Caring","Helpful","Worrisome"]}}
+{"dg-publish":true,"permalink":"/characters/the-citadel/firella/","dg-note-properties":{"role":"Fiancé of Frederick, Baker's Daughter","age":"Young","race":"Eladrin","gender":"Woman","descriptors":null}}
 ---
 
 
-> [!info]+ Frederick's Mother, Inn Keeper of the Sleeping Siren 
-> Adult Eladrin Woman 
-> Caring,Helpful,Worrisome
+> [!info]+ Fiancé of Frederick, Baker's Daughter 
+> Young Eladrin Woman 
+> `=this.descriptors`
 >
 > ## 
 > ![[npc_unknown.png \| 300]]
