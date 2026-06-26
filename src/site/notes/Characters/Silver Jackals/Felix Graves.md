@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/characters/silver-jackals/felix-graves/","tags":["silver-jackal"],"dg-note-properties":{"tags":["silver-jackal"],"role":"Leader of Silver Jackals","age":"Adult","race":"Eladrin","gender":"Male","descriptors":["Bold","Charismatic","Sly"]}}
+---
+
+Leader of the [[Lore/Organizations/Silver Jackals\|Silver Jackals]] and owner of the [[Lore/Locations/Court of Crowns/Prone Pixie\|Prone Pixie]]. 
+> [!info]+ Leader of Silver Jackals 
+> Adult Eladrin Male 
+> Bold,Charismatic,Sly
+>
+
+> 
+
+| Session                        | Reference                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/09\|09]] | [[Characters/Undergrowth/Miskinel Dewdrop\|Miski]] takes them back stage and tells them what she knows. That [[Characters/Court of Crowns/Orissa\|Orissa]]'s army is preparing for something, that there have been a few men that match [[Characters/Court of Crowns/Melindir\|Melindir]]'s description that have gone missing recently, and that the Queen Regent, [[Characters/Court of Crowns/Sterella\|Sterella]], is [[Characters/Court of Crowns/Orissa\|Orissa]]'s. cousin and deep in her pocket. She thinks that this is a clear sign Orissa is staging a coup, but she doesn't know how the disappearances factor in. Miski says the party needs to get access to the inner rings to investigate, and the only person she knows that can get them inside is [[Characters/Silver Jackals/Felix Graves\|Felix Graves]]. |
+
+{ .block-language-dataview}
